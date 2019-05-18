@@ -1,1 +1,1 @@
-# Beklenen-De-er-Varyans-Bernoulli-Binominal
+# Varyans_Bernoulli_Binominal
