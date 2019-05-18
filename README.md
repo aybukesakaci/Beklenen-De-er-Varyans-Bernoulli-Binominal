@@ -1,0 +1,1 @@
+# Beklenen-De-er-Varyans-Bernoulli-Binominal
